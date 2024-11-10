@@ -1,0 +1,10 @@
+<div class="card__container">
+	<a [routerLink]="['/content']">
+		<img
+		[src]=[gameCover]
+	 class="card__img">
+		<app-card-label gameDetail={{gameDetail}}/>
+		<app-card-price gameName={{gameName}} gameTitle={{gameTitle}} gamePrice={{gamePrice}}/>
+	</a>
+
+</div>
