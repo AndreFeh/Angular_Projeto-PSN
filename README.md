@@ -1,26 +1,28 @@
 # PsnStore
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.10.
+Projeto Angular que tende a recriar a interface da loja da PlayStation, 
+
+Criando alguns componentes e sistema de rotas visando utilizar do fremwork Angular
+
+
 
 ## Development server
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Esse projeto ainda esta como LocalHost, definido pelo proprio NG sua exibição na `http://localhost:4200/`
 
-## Code scaffolding
+Com atualização em tempo real pois cada vez que atualiza algo no código ele automaticamente recarrega a página
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
 
-## Build
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## Muito além de Código
 
-## Running unit tests
+É pensar em como construí-lo.
 
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
 
-## Running end-to-end tests
 
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
+Vamos aprender a ir fazendo no Statico mesmo e depois de pronto, refatorá-lo, dessa forma, atualizando para as funções Angular (NG)
+
+
 
 ## Further help
 
